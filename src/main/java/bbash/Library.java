@@ -3,6 +3,9 @@
  */
 package bbash;
 
+/**
+* Library class
+*/
 public class Library {
     public boolean someLibraryMethod() {
         return true;
